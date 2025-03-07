@@ -1,6 +1,6 @@
 # Real-Time Smart Traffic Management System
 
-This project is an Intelligent Traffic Optimization System built using React for the frontend, Azure for deployment, Mapbox for mapping, and MongoDB for data storage.
+This project is an Intelligent Traffic Optimization System built using React for the frontend, Azure for deployment, Mapbox for mapping, and Cosmos DB for data storage.
 
 ## Overview
 
